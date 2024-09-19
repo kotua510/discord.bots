@@ -67,4 +67,4 @@ async def filesize(ctx, *, file_path: str):
         await ctx.send("ファイルが見つかりません。")
 
 # Botを実行
-bot.run('MTI4NTkzNjYyMzExNjA5MTQ4NQ.G_cOnz.WGnZQU8S8wmGym3u79GvYyMDPS5fEl1DKEH_H0')  # YOUR_BOT_TOKEN を実際のトークンに置き換えてください
+bot.run('')  # YOUR_BOT_TOKEN を実際のトークンに置き換えてください
